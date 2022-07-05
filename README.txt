@@ -1,5 +1,3 @@
-the game is in the
+for the game look into;
 html file in this folder
-
-be patient 
-its still loading
+thankyou for your patience
