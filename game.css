@@ -1,3 +1,5 @@
-body{
+p{
     background: blue;
+    width: 80%;
+    font-size: 25px;
 }
